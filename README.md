@@ -1,6 +1,5 @@
-Role Name
+Docker
 =========
-
 A generic role made for installing docker on multiple platforms.
 
 Current platforms:
