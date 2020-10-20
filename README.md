@@ -1,13 +1,15 @@
 Docker
 =========
-A generic role made for installing docker on multiple platforms.
+Install docker on Multiple platforms.
 
 Current platforms:
-- Linux
-  - CentOS 8
-  - Fedora 32
-  - Ubuntu 20.04
-  - ArchLinux
+
+|     Name    |    Version    |
+|:-----------:|:-------------:|
+| RHEL/CentOS |       8       |
+|    Fedora   |       32      |
+|    Ubuntu   | Focal (20.04) |
+|  Archlinux  |      all      |
 
 Example Playbook
 ----------------
@@ -20,4 +22,4 @@ Example Playbook
 
 Author Information
 ------------------
-theJaxon: https://github.com/theJaxon
+Created by [theJaxon](https://github.com/theJaxon)
