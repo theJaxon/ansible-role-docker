@@ -1,0 +1,28 @@
+galaxy_info:
+  role_name: docker
+  author: theJaxon
+  description: Install docker on CentOS 8, Fedora 32, Ubuntu 20.04 and Archlinux
+  min_ansible_version: 2.9
+  license: "license (BSD, MIT)"
+  platforms:
+  - name: Fedora
+    versions:
+      - 32
+  - name: CentOS
+    versions:
+      - 8
+  - name: Archlinux 
+    versions:
+      - all 
+  - name: Ubuntu 
+    versions:
+      - 20.04
+  galaxy_tags: 
+    - docker 
+    - linux 
+    - CentOS 
+    - Fedora
+    - Ubuntu 
+    - Archlinux 
+
+  
